@@ -95,23 +95,6 @@ textiq/
 - 🏢 **Company FAQ Bot** — Feed it internal docs and let it answer employee questions.
 - 🔬 **Research Assistant** — Search through papers and summaries without reading everything manually.
 
----
 
-## ⚠️ Known Limitations
 
-- Only supports `.txt` files as the knowledge source (for now).
-- The vector store is rebuilt only when no existing store is found — delete the `vectorstore_gemini/` folder to force a refresh after updating notes.
-- API key is currently hardcoded — use environment variables in production.
 
----
-
-## 👨‍💻 About
-
-Built by **Kuldeep** — a 3rd year Computer Science Engineering student.  
-This project was developed to explore practical applications of Retrieval-Augmented Generation (RAG) using open LLM APIs.
-
----
-
-## 📄 License
-
-This project is for educational purposes. Feel free to fork and build on it!
