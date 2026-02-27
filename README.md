@@ -17,9 +17,8 @@ TextIQ is a smart chatbot that combines your personal notes with the power of AI
 - **RAG Architecture** — Retrieval-Augmented Generation ensures answers are grounded in your notes, not just AI guesswork.
 - **Your Knowledge Base** — Feed it `.txt` files and it learns from *your* content.
 - **Google Gemini Powered** — Natural, human-like responses using Gemini 1.5 Flash.
-- **Markdown Support** — Responses are beautifully formatted with lists, tables, and code blocks.
 - **Source Toggle** — Optionally view which parts of your notes were used to generate an answer.
-- **Session Management** — Each user gets a unique session for a clean experience.
+
 
 ---
 
